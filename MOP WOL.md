@@ -1,5 +1,6 @@
 # MOP pour le Wake on Lan 
 
+![wol_logo](/images/wol.png)
 
 _Become root..._
 
